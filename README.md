@@ -6,11 +6,13 @@ https://github.com/justjavac/free-programming-books-zh_CN
 
 https://github.com/yunwei1992/git-java-book/tree/master/books-master
 
-https://github.com/daichangya/EBook-PDF
+https://github.com/lovsw/EBook-PDF
 
-https://github.com/daichangya/books-collection
+https://github.com/waylau/books-collection
 
-https://github.com/daichangya/it-ebooks-cn
+https://github.com/fuhmmin/it-ebooks-cn
+
+https://github.com/RongleXie/java-books-collections
 
 # 目录
 
